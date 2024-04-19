@@ -1,0 +1,69 @@
+.conteiner {
+  max-width: 499px;
+  padding: 39px;
+  margin: 50px auto;
+  background-color: white;
+  border-radius: 15px;
+}
+
+.title {
+    justify-content: center;
+    text-align: center;
+    font-size: 27px;
+    line-height: 33px;
+    margin-bottom: 29px;
+}
+
+
+.cont_form {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    border: 1px solid #C5C5C5;
+    border-radius: 10px;
+    padding: 12px 14px;
+    gap: 5px;
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+    color: #C5C5C5;
+}
+
+.cont_form input {
+    outline: none;
+    border: none;
+    width: 100%;
+}
+
+.button {
+    width: 100%;
+    padding: 19px 0px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    color: aliceblue;
+    margin-top: 10px;
+    background: linear-gradient(0.25turn, #FFA7A7, #FF014E);
+}
+
+.gogle {
+    width: 100%;
+    padding: 15px 99px;
+    border-radius: 10px;
+    border: 1px solid #d4d3d3;
+    cursor: pointer;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    text-align: center;
+    margin-bottom: 23px;
+}
+
+.text {
+    justify-content: center;
+    text-align: center;
+}
